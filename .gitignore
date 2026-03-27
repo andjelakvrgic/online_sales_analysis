@@ -1,0 +1,10 @@
+# Ignoriši Python cache fajlove
+__pycache__/
+*.pyc
+
+# Ignoriši screenshotove
+*.png
+*.jpg
+
+# Ignoriši testnu konfiguraciju sa API ključevima
+config.json
